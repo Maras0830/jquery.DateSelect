@@ -6,3 +6,6 @@
 <p>您可以根據Demo文件來學習如何使用這個元件，讓您輕鬆的開發連動式日期。</p>
 <p>You can read the demo document to learn this.</p>
 
+
+<h3>Author: Maras Chen (陳俊仁) Email:j999444@gmail.com</h3>
+<p>If u have any problem,welcome to send mail to me :)</p>
