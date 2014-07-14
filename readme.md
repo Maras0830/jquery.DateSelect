@@ -6,16 +6,16 @@
 <h3>[2014.07.14] 完成參數-預設值 Version 1.0.1</h3>
 <p>您可以傳入參數設定年份、月份、日期的預設值</p>
 <p>You can set up default value.</p>
-<p>like this:</p>
+<p>Like this:</p>
 <pre>
 <code>
-	"$(function(){
+	$(function(){
 		$(".DateSelect").DateSelect({
 			year: 1992,
 			month: 8,
 			date: 30
 		});
-	});"
+	});
 </code>
 </pre>
 
