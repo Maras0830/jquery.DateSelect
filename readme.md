@@ -1,8 +1,26 @@
 <h2>這個元件尚在開發中(In development)</h2>
 <p>最近太忙，元件實在是沒什麼時間開發，預計年底前找時間會完成這個。</p>
 <p>i will add new features ... uh if i have time !</p>
+<p>誠徵一名長期合作的美工設計師呀…</p>
+<p>i need ui/ux partner!</p>
 
 <h2>更新紀錄</h2>
+
+<h3>[2014.07.15] 完成參數-起始年份與最後年份 Version 1.0.2</h3>
+<p>您可以傳入參數設定起始年份、最後年份的預設值</p>
+<p>You can set up StartYear and EndYear</p>
+<p>Like this:</p>
+<pre>
+<code>
+	$(function(){
+		$(".DateSelect").DateSelect({
+			StartYear: 1900,
+			EndYear: 2020
+		});
+	});
+</code>
+</pre>
+
 <h3>[2014.07.14] 完成參數-預設值 Version 1.0.1</h3>
 <p>您可以傳入參數設定年份、月份、日期的預設值</p>
 <p>You can set up default value.</p>
