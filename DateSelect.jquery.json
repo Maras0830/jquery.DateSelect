@@ -1,0 +1,37 @@
+{
+  "name": "DateSelect",
+  "title": "Jquery DateSelect Plugin",
+  "description": "You can easily use this plugin to the choose date.",
+  "keywords": [
+    "jquery",
+    "plugins",
+    "DateSelect",
+    "Date",
+    "fast",
+    "Linked"
+  ],
+  "version": "1.0.2",
+  "author": {
+    "name": "Maras Chen",
+    "url": "https://github.com/Maras0830"
+  },
+  "maintainers": [
+    {
+      "name": "Maras Chen",
+      "url": "https://github.com/Maras0830"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "bugs": "https://github.com/Maras0830/jquery.DateSelect/issues",
+  "homepage": "http://mjlescano.github.io/freeChars",
+  "docs": "https://github.com/Maras0830/jquery.DateSelect#readme",
+  "download": "https://github.com/Maras0830/jquery.DateSelect/archive/master.zip",
+  "dependencies": {
+    "jquery": ">=1.9"
+  }
+}
