@@ -3,7 +3,7 @@
 <p>i will add new features ... uh if i have time !</p>
 <p>誠徵一名長期合作的美工設計師呀…</p>
 <p>i need ui/ux partner!</p>
-<p><a href="https://rawgit.com/Maras0830/jquery.DateSelect/tree/master/Demo">Live Demo</a></p>
+<p><a href="https://rawgit.com/Maras0830/jquery.DateSelect/master/Demo/index.html">Live Demo</a></p>
 <h2>更新紀錄</h2>
 
 <h3>[2014.07.15] 完成參數-起始年份與最後年份 Version 1.0.2</h3>
