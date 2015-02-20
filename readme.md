@@ -6,6 +6,14 @@
 <p><a href="https://rawgit.com/Maras0830/jquery.DateSelect/master/Demo/index.html">Live Demo</a></p>
 <h2>更新紀錄</h2>
 
+
+
+<h3>[2015.02.21] 輸出查看結果 Version 1.0.3</h3>
+<p>稍微調整可以讓他輸出結果</p>
+<p>讓使用者可以透過表單傳輸資料</p>
+<p>you can see demo .html to get value with form.</p>
+</pre>
+
 <h3>[2014.07.15] 完成參數-起始年份與最後年份 Version 1.0.2</h3>
 <p>您可以傳入參數設定起始年份、最後年份的預設值</p>
 <p>You can set up StartYear and EndYear</p>
