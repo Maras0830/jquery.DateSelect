@@ -5,16 +5,21 @@
 	<script src="../lib/jquery.DateSelect-1.0.1.js"></script>
 </head>
 <body>
-	<div class="DateSelect" id="DateSelect2" name="DateSelect"></div>
+	<h1>The very simply Date Select!</h1>
+	<form action="showvalue.php" method="POST">
+		Name: </br><input type="text" name="Name" value="Maras" /></p>
+		Birthday: <div class="DateSelect" id="DateSelect" name="DateSelect"></div><br/>
+		<input type="submit" />
+	</form>
 </body>
 </html>
 <script type="text/javascript">
 $(function(){
 	$(".DateSelect").DateSelect({
-		year: 1992,
-		month: 8,
-		date: 30,
-		StartYear: 1900,
+		year: 1992, // default year
+		month: 8, // default month
+		date: 30, // default date
+		StartYear: 1900, 
 		EndYear: 2020
 	});
 });

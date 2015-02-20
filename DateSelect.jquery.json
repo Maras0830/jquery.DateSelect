@@ -8,9 +8,10 @@
     "DateSelect",
     "Date",
     "fast",
-    "Linked"
+    "Linked",
+    "simply"
   ],
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": {
     "name": "Maras Chen",
     "url": "https://github.com/Maras0830"
